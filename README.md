@@ -10,7 +10,7 @@
 
 
 <div align=center>
-  <a href="#"><p> links </p></a>
+  ## Links
   
   <a title="youtube"    href="https://www.youtube.com/channel/UCvnZf6ubXmuYe7RMtmffWHw"             ><img src="https://www.youtube.com/s/desktop/a2ac178f/img/favicon.ico"               width=32 height=32></a>
   <a title="twitch"     href="https://www.twitch.tv/quartzwarior"      ><img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"  width=32 height=32></a>
