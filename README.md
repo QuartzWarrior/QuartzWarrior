@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+## New projects, Slope & CookieClicker for GameFinder.ga
+
 - I am currently working on a new discord bot (dm me for name ideas)
 - I am looking to collaborate on python discord bots
 - Ask me about free discord bot hosting
