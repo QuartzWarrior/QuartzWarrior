@@ -20,8 +20,7 @@
   <a title="minecraft"  href="https://mine.ly/QuartzWarrior"    ><img src="https://static.namemc.com/i/favicon-128.png"                              width=32 height=32></a>
   <a title="discord"    href="https://discord.gg/D9uKWv2ec9"      ><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"          width=32 height=32></a>
 </div>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/713512807580303440
-                            )](https://discord.com/users/713512807580303440)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/713512807580303440)](https://discord.com/users/713512807580303440)
 
 <!--
 **QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
