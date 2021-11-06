@@ -8,7 +8,7 @@
 - I am looking to collaborate on python discord bots
 - Ask me about free discord bot hosting
 - Reach me below in links
-- Fun Fact: My bot, Minecraft Status, is in 569 servers!
+- Fun Fact: My bot, Minecraft Status, is in 733 servers!
 
 
 <div align=center>
