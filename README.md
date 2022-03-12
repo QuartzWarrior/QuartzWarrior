@@ -23,7 +23,7 @@
 <br>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/713512807580303440)](https://discord.com/users/713512807580303440)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952011528301871114)](https://discord.com/users/952011528301871114)
 
 <!--
 **QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
