@@ -2,6 +2,18 @@
 
 ### Hi there 👋
 
+# Latest Project: P.A.B.
+- Public API Bot
+- Adding tons of commands and features inluding:
+  - Fortnite API
+  - Urban Dictionary
+  - Earthquake API
+  - Discord User checking
+  - Advice
+  - Screenshots
+  - Currency conversion
+  - Bored Activities
+
 ## New projects, Slope & CookieClicker for GameFinder.ga
 
 - I am currently working on a new discord bot (dm me for name ideas)
