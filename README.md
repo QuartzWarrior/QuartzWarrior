@@ -2,17 +2,25 @@
 
 ### Hi there 👋
 
-# Latest Project: P.A.B.
-- Public API Bot
-- Adding tons of commands and features inluding:
-  - Fortnite API
-  - Urban Dictionary
-  - Earthquake API
-  - Discord User checking
-  - Advice
-  - Screenshots
-  - Currency conversion
-  - Bored Activities
+# Latest Project: WebGX
+- Unblocked games
+- Multiple domains
+- Online proxy
+- Constant updates
+- Dynamic design
+- Beautiful UI
+
+## ~~Latest Project: P.A.B.~~
+- ~~Public API Bot~~
+- ~~Adding tons of commands and features inluding:~~
+  - ~~Fortnite API~~
+  - ~~Urban Dictionary~~
+  - ~~Earthquake API~~
+  - ~~Discord User checking~~
+  - ~~Advice~~
+  - ~~Screenshots~~
+  - ~~Currency conversion~~
+  - ~~Bored Activities~~
 
 ## New projects, Slope & CookieClicker for GameFinder.ga
 
@@ -35,7 +43,10 @@
 <br>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/802725022560944160)](https://discord.com/users/802725022560944160)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1065714439380271164)](https://discord.com/users/1065714439380271164)
+
+
+<img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 
 <!--
 **QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
