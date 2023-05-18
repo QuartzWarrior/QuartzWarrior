@@ -1,8 +1,14 @@
 <i>he/him</i>
 
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm QuartzWarrior! 👋</h1>
+</div>
 
-# Latest Project: WebGX
+<div align="center">
+  <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
+</div>
+
+## Latest Project: WebGX
 - Unblocked games
 - Multiple domains
 - Online proxy
@@ -10,46 +16,27 @@
 - Dynamic design
 - Beautiful UI
 
-## ~~Latest Project: P.A.B.~~
-- ~~Public API Bot~~
-- ~~Adding tons of commands and features inluding:~~
-  - ~~Fortnite API~~
-  - ~~Urban Dictionary~~
-  - ~~Earthquake API~~
-  - ~~Discord User checking~~
-  - ~~Advice~~
-  - ~~Screenshots~~
-  - ~~Currency conversion~~
-  - ~~Bored Activities~~
+## ~~New Projects: Slope & CookieClicker for GameFinder.ga~~
 
-## New projects, Slope & CookieClicker for GameFinder.ga
+- ~~Currently working on a new Discord bot (DM me for name ideas)~~
+- ~~Interested in collaborating on Python Discord bots~~
+- ~~Ask me about free Discord bot hosting~~
+- ~~Fun Fact: My bot, Minecraft Status, is in 1035 servers!~~
 
-- I am currently working on a new discord bot (dm me for name ideas)
-- I am looking to collaborate on python discord bots
-- Ask me about free discord bot hosting
-- Reach me below in links
-- Fun Fact: My bot, Minecraft Status, is in 733 servers!
-
-
-<div align=center>
-  ## Links
-  
-  <a title="youtube"    href="https://www.youtube.com/channel/UCvnZf6ubXmuYe7RMtmffWHw"             ><img src="https://www.youtube.com/s/desktop/a2ac178f/img/favicon.ico"               width=32 height=32></a>
-  <a title="twitch"     href="https://www.twitch.tv/quartzwarior"      ><img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"  width=32 height=32></a>
-<!--  <a title="osu!"       href="https://osu.ppy.sh/users/"  ><img src="https://osu.ppy.sh/favicon-32x32.png"                                     width=32 height=32></a> -->
-  <a title="minecraft"  href="https://mine.ly/QuartzWarrior"    ><img src="https://static.namemc.com/i/favicon-128.png"                              width=32 height=32></a>
-  <a title="discord"    href="https://discord.gg/D9uKWv2ec9"      ><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"          width=32 height=32></a>
+<div align="center">
+  <h2>Links</h2>
+  <a href="https://www.youtube.com/channel/UCvnZf6ubXmuYe7RMtmffWHw"><img src="https://www.youtube.com/s/desktop/a2ac178f/img/favicon.ico" width="32" height="32" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/quartzwarior"><img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" width="32" height="32" alt="Twitch"></a>
+  <!--<a href="https://osu.ppy.sh/users/"><img src="https://osu.ppy.sh/favicon-32x32.png" width="32" height="32" alt="osu!"></a>-->
+  <a href="https://mine.ly/QuartzWarrior"><img src="https://crafatar.com/renders/head/99d18d7874cd4652b2fe6aed2f805610?overlay" width="32" height="32" alt="Minecraft"></a>
+  <a href="https://discord.gg/D9uKWv2ec9"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="32" height="32" alt="Discord"></a>
 </div>
 <br>
 
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1065714439380271164)](https://discord.com/users/1065714439380271164)
 
-
-<img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
-
-<!--
-**QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+ **QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
