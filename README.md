@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=QuartzWarrior&style=for-the-badge&label=VIEWS"/><br>
-  <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg"/>
 </div>
 
 ## Latest Project: WebGX
@@ -33,7 +32,13 @@
   <a href="https://discord.gg/D9uKWv2ec9"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="32" height="32" alt="Discord"></a>
 </div>
 <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuartzWarrior&style=for-the-badge&label=VIEWS"/><br>
+</div>
 
+<div align="center">
+  <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
+</div>
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1065714439380271164" alt="https://discord.com/users/1065714439380271164" />
 </div>
