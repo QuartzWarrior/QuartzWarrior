@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=QuartzWarrior&style=for-the-badge&label=VIEWS"/><br>
   <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 </div>
 
@@ -33,7 +34,9 @@
 </div>
 <br>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1065714439380271164)](https://discord.com/users/1065714439380271164)
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1065714439380271164" alt="https://discord.com/users/1065714439380271164" />
+</div>
 
 <!-- 
  **QuartzWarrior/QuartzWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
