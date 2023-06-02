@@ -36,6 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=QuartzWarrior&style=for-the-badge&label=VIEWS"/><br>
 </div>
 
+
 <div align="center">
   <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 </div>
@@ -57,3 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=74436633)
