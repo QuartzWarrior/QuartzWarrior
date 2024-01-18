@@ -5,23 +5,26 @@
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg"/>
+  <img alt="profile-view" src="./profile-3d-contrib/profile-night-view.svg"/>
 </div>
 
-## Latest Project: WebGX
-- Unblocked games
-- Multiple domains
-- Online proxy
+## Latest Project: QuartzAI
+
+- An AI service to access multiple AI services in one place for free
+- Currently in development
 - Constant updates
 - Dynamic design
 - Beautiful UI
+- [Website](https://ai.quartzwarrior.xyz)
+- [GitHub](https://github.com/QuartzWarrior/QuartzAI)
+- [Discord](https://discord.gg/pWF8EvPqdy)
 
-## ~~New Projects: Slope & CookieClicker for GameFinder.ga~~
+<!-- ## ~~New Projects: Slope & CookieClicker for GameFinder.ga~~
 
 - ~~Currently working on a new Discord bot (DM me for name ideas)~~
 - ~~Interested in collaborating on Python Discord bots~~
 - ~~Ask me about free Discord bot hosting~~
-- ~~Fun Fact: My bot, Minecraft Status, is in 1035 servers!~~
+- ~~Fun Fact: My bot, Minecraft Status, is in 1035 servers!~~ -->
 
 <div align="center">
   <h2>Links</h2>
@@ -35,7 +38,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=QuartzWarrior&style=for-the-badge&label=VIEWS"/><br>
 </div>
-
 
 <div align="center">
   <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
