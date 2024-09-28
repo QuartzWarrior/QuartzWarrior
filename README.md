@@ -8,16 +8,13 @@
   <img alt="profile-view" src="./profile-3d-contrib/profile-night-view.svg"/>
 </div>
 
-## Latest Project: QuartzAI
+## Latest Project: ShardAI
 
-- An AI service to access multiple AI services in one place for free
-- Currently in development
-- Constant updates
-- Dynamic design
-- Beautiful UI
-- [Website](https://ai.quartzwarrior.xyz)
-- [GitHub](https://github.com/QuartzWarrior/QuartzAI)
-- [Discord](https://discord.gg/pWF8EvPqdy)
+- An AI service to access multiple AI services in one place
+- Constant updates/development
+- Dynamic website
+- [Website](https://shard-ai.xyz)
+- [Discord](https://discord.shard-ai.xyz)
 
 <!-- ## ~~New Projects: Slope & CookieClicker for GameFinder.ga~~
 
@@ -40,7 +37,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=QuartzWarrior&theme=monokai"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-github-stats.vercel.app/api?username=QuartzWarrior&theme=monokai&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 </div>
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1065714439380271164" alt="https://discord.com/users/1065714439380271164" />
